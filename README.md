@@ -1,6 +1,6 @@
 # bitcoin-alpha
 
-**This is a legacy build! For most recent developments, go here: [https://github.com/bitcoin/bitcoin](https://github.com/bitcoin/bitcoin).**
+**This is a legacy build for educational purposes! For most recent, go here: [https://github.com/bitcoin/bitcoin](https://github.com/bitcoin/bitcoin).**
 
 <pre>
 BitCoin v0.01 ALPHA
